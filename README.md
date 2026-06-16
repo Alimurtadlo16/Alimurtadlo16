@@ -1,19 +1,23 @@
 <div align="center">
 
-<!-- HEADER HTML MURNI - DIJAMIN 100% AMAN DAN TIDAK AKAN PECAH -->
+<!-- HEADER HTML MURNI - 100% AMAN DAN ANTI PECAH -->
 <h1><g-emoji class="g-emoji" alias="wave">👋</g-emoji> Halo semua, Saya Ahmad Ali Murtadlo!</h1>
 <p><i>Pagi ngopi + coding, siang lanjut turu~an, malem pusing nyari error biar cepat tidur.</i></p>
 
 <br>
 
-<!-- TRIVIA RANDOM QUOTES (YANG SUDAH BERHASIL NYALA) -->
+<!-- TRIVIA RANDOM QUOTES -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
 
 <br>
+
+<!-- TECH STACK YANG SUDAH DISESUAIKAN DENGAN REPO KAMU -->
 ### 🛠️ Tech Stack & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -54,7 +58,6 @@
 ---
 
 ### 🐍 My Contribution Snake Game
-<!-- Animasi Ular yang Memakan Kotak Hijau Kontribusimu -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake.svg">
