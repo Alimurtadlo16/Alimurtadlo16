@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- HEADER BARU YANG JAUH LEBIH STABIL -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alimurtadlo!;+Welcome+to+My+Profile!;+Happy+Coding!+🚀" alt="Typing SVG" />
+<!-- HEADER HTML MURNI - DIJAMIN 100% AMAN DAN TIDAK AKAN PECAH -->
+<h1><g-emoji class="g-emoji" alias="wave">👋</g-emoji> Halo semua, Saya Ahmad Ali Murtadlo!</h1>
+<p><i>Pagi ngopi + coding, siang lanjut turu~an, malem pusing nyari error biar cepat tidur.</i></p>
 
 <br>
 
-<!-- TRIVIA RANDOM QUOTES DENGAN FORMAT LEBIH AMAN -->
+<!-- TRIVIA RANDOM QUOTES (YANG SUDAH BERHASIL NYALA) -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
 
 <br>
-
 ### 🛠️ Tech Stack & Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
