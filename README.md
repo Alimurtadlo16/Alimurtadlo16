@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- 1. ANIMASI HEADER KAMPUS / WELCOME -->
-<img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Alimurtadlo!&fontSize=70&animation=twinkling" alt="Header" />
+<!-- HEADER BARU YANG JAUH LEBIH STABIL -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Alimurtadlo!;+Welcome+to+My+Profile!;+Happy+Coding!+🚀" alt="Typing SVG" />
 
 <br>
 
-<!-- 2. TRIVIA RANDOM QUOTES (BERUBAH SENDIRI TIAP DI-REFRESH) -->
-<img src="https://readme-quotes-capsule.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+<!-- TRIVIA RANDOM QUOTES DENGAN FORMAT LEBIH AMAN -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
 
 <br>
 
