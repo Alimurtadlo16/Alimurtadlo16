@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMms0N3R3ODFvM3R0N3R3ODFvM3R0N3R3ODFvM3R0N3R3ODFvJnR5cGU9MSZzPTIwMCZfaD0yMDA/l0ExdMHUDKnoCtgY0/giphy.gif" width="120" style="border-radius: 50%;"/>
 
 ### Hi, I'm Alimurtadlo 👋
-Pagi ngopi + coding Java, siang lanjut ulik Python, malem pusing nyari error biar cepat tidur.
+Pagi ngopi + coding, siang lanjut turu"an, malem pusing nyari error biar cepat tidur.
 
 ---
 
