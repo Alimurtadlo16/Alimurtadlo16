@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER HTML MURNI - 100% AMAN DAN ANTI PECAH -->
-<h1><g-emoji class="g-emoji" alias="wave">👋</g-emoji> Halo semua, Saya Ahmad Ali Murtadlo!</h1>
+<h1><g-emoji class="g-emoji" alias="wave">👋</g-emoji> Halo semua, Saya Ahmad Ali Murtadlo Asadillah!</h1>
 <p><i>Pagi ngopi + coding, siang lanjut turu~an, malem pusing nyari error biar cepat tidur.</i></p>
 
 <br>
