@@ -25,6 +25,26 @@
 
 ---
 
+<!-- PROYEK TERBARU KAMU DENGAN GAMBAR -->
+### 🚀 Proyek Terbaru
+<p align="center">
+  <strong>🃏 3D Tilt Card Effect</strong><br>
+  Proyek kartu 3D interaktif yang dibuat menggunakan HTML, CSS, dan JavaScript.<br><br>
+  
+  <!-- INI BAGIAN GAMBARNYA, MEMAKAI GAMBAR YANG DIUNGGAH TADI -->
+  <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
+    <img src="kartu-ali.png" alt="Ali's 3D Card" width="300px" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Coba_Live-Vercel_Preview-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ahmad-ali-murtadlo-asadillah-b1836b366" target="_blank">
