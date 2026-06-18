@@ -77,7 +77,7 @@
 
 ---
 
-### 🐍 Our Contribution Have Eaten by Snake Visualitation
+### 🐍 Our Contribution Eated by Snake Visualitation
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake.svg">
