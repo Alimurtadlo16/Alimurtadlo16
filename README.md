@@ -29,6 +29,8 @@
   </a>
 </p>
 
+---
+
 <!-- FIX LINKEDIN YANG TYPO TANDA KURUNG SIKU -->
 ### 🌐 Connect with Me
 <p align="center">
