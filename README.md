@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmad+Ali+Murtadlo+Asadillah" alt="Typing SVG" />
 </p>
 
-<p><i>Pagi ngampus (Nguli-AH ampe mampus) + coding, siang lanjut rebahan nyantai, mangan, malem pusing nyari error biar cepat rebahan sembari monev.</i></p>
+<p><i>Pagi NGAMPUS (Ngu-Lie-Ah AMpe mamPUS) + coding, siang lanjut rebahan nyantai, mangan, malem pusing nyari error biar cepat rebahan sembari monev.</i></p>
 
 <br>
 
