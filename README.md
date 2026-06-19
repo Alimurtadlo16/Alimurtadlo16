@@ -4,20 +4,14 @@
 <h1><g-emoji class="g-emoji" alias="wave">👋 </g-emoji> Halo semua, Saya Ahmad Ali Murtadlo Asadillah!👋 </h1>
 <p><i>Pagi ngampus (Nguli-AH ampe mampus) + coding, siang lanjut rebahan nyantai, mangan, malem pusing nyari error biar cepat rebahan sembari monev.</i></p>
 
-<br>
-
 <!-- TRIVIA RANDOM QUOTES -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
-
-<br>
 
 <!-- TECH STACK YANG SUDAH DISESUAIKAN SAMA GAMBAR & SEMUA BAHASAMU -->
 ### 🛠️ Tech Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,go,nodejs,react,git" />
 </p>
-
----
 
 <!-- PROYEK TERBARU KAMU DENGAN OTOMATIS SCREENSHOT -->
 ### 🚀 Proyek Terbaru
@@ -30,14 +24,10 @@
     <img src="https://api.microlink.io?url=https%3A%2F%2Fbelajar-html-3d-card.vercel.app&screenshot=true&embed=screenshot.url" alt="Ali's 3D Card" width="350px" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
   </a>
   
-  <br><br>
-  
   <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Coba_Live-Vercel_Preview-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
 </p>
-
----
 
 <!-- FIX LINKEDIN YANG TYPO TANDA KURUNG SIKU -->
 ### 🌐 Connect with Me
@@ -50,14 +40,10 @@
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <!-- Grafik Bergelombang -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimurtadlo16&theme=tokyonight" alt="Ali's Activity Graph" width="100%" />
-
-<br>
 
 <table width="100%">
   <tr>
@@ -69,8 +55,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🐍 My Own Snake Ate Our Contribution  
 <picture>
