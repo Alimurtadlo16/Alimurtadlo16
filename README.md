@@ -11,10 +11,10 @@
 
 <br>
 
-<!-- TECH STACK YANG SUDAH DISESUAIKAN DENGAN REPO KAMU -->
+<!-- TECH STACK YANG SUDAH DISESUAIKAN SAMA GAMBAR & SEMUA BAHASAMU -->
 ### 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=HTML,CSS,Git,go,Java,nodejs,Python,C++,react" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,go,nodejs,react,git" />
 </p>
 
 ---
@@ -39,9 +39,10 @@
 
 ---
 
+<!-- FIX LINKEDIN YANG TYPO TANDA KURUNG SIKU -->
 ### 🌐 Connect with Me
 <p align="center">
-  <a href=["https://linkedin.com/in/ahmad-ali-murtadlo-asadillah-b1836b366"](https://www.linkedin.com/in/ahmad-ali-murtadlo-asadillah-b1836b366/) target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-ali-murtadlo-asadillah-b1836b366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/aali_mu.asadillah" target="_blank">
