@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- HEADER HTML MURNI DENGAN ANIMASI TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=550&height=50&lines=Hi+There!+%F0%9F%91%8B+I'm+Ahmad+Ali;Mobile+%26+AI+Developer;UI%2FUX+Enthusiast;Photography+Lover" alt="Typing SVG" />
+<!-- HEADER DENGAN TYPING SVG BERGERAK - KHAS SEPUH IT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmad+Ali+Murtadlo+Asadillah" alt="Typing SVG" />
+</p>
 
 <p><i>Pagi ngampus (Nguli-AH ampe mampus) + coding, siang lanjut rebahan nyantai, mangan, malem pusing nyari error biar cepat rebahan sembari monev.</i></p>
 
