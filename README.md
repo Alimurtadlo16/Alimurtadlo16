@@ -23,13 +23,13 @@
   <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
     <img src="https://api.microlink.io?url=https%3A%2F%2Fbelajar-html-3d-card.vercel.app&screenshot=true&embed=screenshot.url" alt="Ali's 3D Card" width="350px" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
   </a>
+
+  ---
   
   <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Coba_Live-Vercel_Preview-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
 </p>
-
----
 
 <!-- FIX LINKEDIN YANG TYPO TANDA KURUNG SIKU -->
 ### 🌐 Connect with Me
