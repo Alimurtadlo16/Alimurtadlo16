@@ -2,7 +2,7 @@
 
 <!-- HEADER HTML MURNI - 100% AMAN DAN ANTI PECAH -->
 <h1><g-emoji class="g-emoji" alias="wave">👋 </g-emoji> Halo semua, Saya Ahmad Ali Murtadlo Asadillah!👋 </h1>
-<p><i>Pagi ngampus (Nguli-AH ampe mampus) + coding, siang lanjut rebahan nyantai, mangan, malem pusing nyari error biar cepat rebeahan sembari monev.</i></p>
+<p><i>Pagi ngampus (Nguli-AH ampe mampus) + coding, siang lanjut rebahan nyantai, mangan, malem pusing nyari error biar cepat rebahan sembari monev.</i></p>
 
 <br>
 
