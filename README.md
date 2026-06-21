@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-### 🐍 My Own Snake Ate Our Contribution  
+### 🐍 My Snake Ate Own Contribution  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake.svg">
