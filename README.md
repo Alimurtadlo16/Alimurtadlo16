@@ -55,16 +55,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimurtadlo16&theme=tokyonight" alt="Ali's Activity Graph" width="100%" />
 </p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight" alt="Top Langs" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- FIXED SIDE-BY-SIDE CARDS WITHOUT TABLE TRAP -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight" alt="Ali's Stats" height="165" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
+</p>
 
 ---
 
