@@ -14,8 +14,10 @@
 
 ### 🚀 Terbaru
 <p align="center">
-  <strong>🃏 Proyek kartu 3D interaktif yang dibuat menggunakan HTML, CSS, dan JavaScript.</strong><br>
-  
+  <strong>🃏 Kartu 3D interaktif </strong><br>
+
+  <br><br>
+
   <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
     <img src="https://api.microlink.io?url=https%3A%2F%2Fbelajar-html-3d-card.vercel.app&screenshot=true&embed=screenshot.url" alt="Ali's 3D Card" width="350px" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
   </a>
