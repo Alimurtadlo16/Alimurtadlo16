@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,react,go,C, C#,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,java,js,html,css,react,go,laragon,nodejs,git" />
 </p>
 
 ### 🚀 Proyek Terbaru
