@@ -10,7 +10,9 @@
   <i>"Fueling code with coffee, chasing bugs till late, and mentoring the next generation of engineers at the lab."</i>
 </p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+</p>
 
 ---
 
@@ -29,17 +31,16 @@
 
 ### 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,go,laravel,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,go,laravel,nodejs,git" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 🚀 Latest Project / Proof of Work
 <p align="center">
-  <strong>🃏 Interactive 3D Card Ecosystem</strong><br>
-  <br>
+  <strong>🃏 Interactive 3D Card Ecosystem</strong><br><br>
   <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
-    <img src="https://api.microlink.io?url=https%3A%2F%2Fbelajar-html-3d-card.vercel.app&screenshot=true&embed=screenshot.url" alt="Ali's 3D Card" width="400px" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
+    <img src="https://images.weserv.nl/?url=https://belajar-html-3d-card.vercel.app&w=400&output=jpg&screenshot=true" alt="Ali's 3D Card" width="400px" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
   </a>
   <br><br>
   <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
@@ -55,7 +56,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimurtadlo16&theme=tokyonight" alt="Ali's Activity Graph" width="100%" />
 </p>
 
-<!-- FIXED SIDE-BY-SIDE CARDS WITHOUT TABLE TRAP -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
 </p>
@@ -79,7 +81,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/aali_mu.asadillah" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&theme=dark" alt="Instagram" />
   </a>
 </p>
 
