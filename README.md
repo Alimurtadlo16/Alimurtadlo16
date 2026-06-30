@@ -36,29 +36,10 @@
 
 ---
 
-### 🚀 Latest Project / Proof of Work
-<p align="center">
-  <strong>🃏 Interactive 3D Card Ecosystem</strong><br><br>
-  <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
-    <img src="https://images.weserv.nl/?url=https://belajar-html-3d-card.vercel.app&w=400&output=jpg&screenshot=true" alt="Ali's 3D Card" width="400px" style="border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
-  </a>
-  <br><br>
-  <a href="https://belajar-html-3d-card.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Coba_Live-Vercel_Preview-blue?style=for-the-badge&logo=vercel" alt="Live Demo" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats & Productivity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimurtadlo16&theme=tokyonight" alt="Ali's Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  &nbsp;&nbsp;
 </p>
 
 ---
