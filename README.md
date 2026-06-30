@@ -14,7 +14,7 @@
 
 ---
 
-### ⚡ About Me
+### ⚡ About My Journey
 
 <div align="left" style="max-width: 650px; margin: 0 auto;">
   <ul>
