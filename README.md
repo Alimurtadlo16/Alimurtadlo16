@@ -59,7 +59,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
 </p>
 
 ---
