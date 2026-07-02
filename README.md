@@ -35,11 +35,6 @@
 ---
 
 ### 📊 GitHub Stats & Productivity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimurtadlo16&theme=tokyonight" alt="Ali's Activity Graph" width="100%" />
-</p>
-
 ---
 
 ### 🐍 My Snake Ate A Contribution  
