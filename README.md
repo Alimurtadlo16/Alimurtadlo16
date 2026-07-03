@@ -36,8 +36,8 @@
 
 ### 📊 GitHub Stats & Productivity
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="195" />
 </p>
 
 ---
