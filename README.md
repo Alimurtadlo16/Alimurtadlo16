@@ -29,7 +29,7 @@
 
 ### 🛠️ Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,go,laragon,laravel,nodejs,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,go,laravel,nodejs,git" alt="Tech Stack" />
 </p>
 
 ---
