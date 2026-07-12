@@ -40,9 +40,7 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="195" />
 </p>
 
----
-
-### 🐍 My Snake Ate A Contribution  
+---  
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alimurtadlo16/Alimurtadlo16/output/github-contribution-grid-snake-dark.svg">
