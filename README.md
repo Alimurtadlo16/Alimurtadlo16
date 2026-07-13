@@ -73,6 +73,6 @@ major : Informatics Engineering
 
 <br>
     
-[![Footer](https://capsule-render.vercel.app/api?type=soft&color=0:A370F7,100:58A6FF&height=120&section=footer)](https://github.com/Alimurtadlo16)
+[![Footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:FF007A,100:7928CA&height=120&section=footer)](https://github.com/Alimurtadlo16)
 
 </div>
