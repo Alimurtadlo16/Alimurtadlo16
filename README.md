@@ -70,3 +70,13 @@ major : Informatics Engineering
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+<br>
+
+<sub>💬 Open for collaboration, freelance projects, or just a good tech chat!</sub>
+
+<br>
+<br>
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=100&section=footer)](https://github.com/FarrelGhozy)
+
+</div>
