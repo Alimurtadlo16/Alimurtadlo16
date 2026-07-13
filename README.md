@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <h3>⚡ About My Journey</h3>
+  ⚡ About My Journey
 </p>
 
 ```yaml
@@ -27,7 +27,7 @@ major : Informatics Engineering
 ---
 
 <p align="center">
-  <h3>🛠️ Tech Stack & Skills</h3>
+  🛠️ Tech Stack & Skills
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ major : Informatics Engineering
 ---
 
 <p align="center">
-  <h3>📊 GitHub Stats & Productivity</h3>
+  📊 GitHub Stats & Productivity
 </p>
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165" />
@@ -55,7 +55,10 @@ major : Informatics Engineering
 
 ---
 
-### 🌐 Connect with Me
+<p align="center">
+  🌐 Connect with Me
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmad-ali-murtadlo-asadillah-b1836b366/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
