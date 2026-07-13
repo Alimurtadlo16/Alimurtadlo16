@@ -16,14 +16,23 @@
 
 ### ⚡ About My Journey
 
-<div align="left" style="max-width: 650px; margin: 0 auto;">
-  <ul>
-    <li>💼 <b>Current Focus:</b> Laboratory & Practicum Assistant at UNIDA Gontor — guiding junior students in Java OOP, Data Structures, and Databases.</li>
-    <li>🤖 <b>AI-Assisted Engineering:</b> Certified in Generative AI & Prompt Engineering (Codepolitan x Google.org) to build highly productive engineering workflows.</li>
-    <li>🔒 <b>Security Aware:</b> Trained in Industrial Cybersecurity frameworks (ID-Networkers) to enforce secure coding principles from the ground up.</li>
-    <li>🌐 <b>Global Capability:</b> Upper-intermediate Arabic proficiency (TOAFL B2 Certified - Score: 500) from Lisanul Arab, ready for international tech collaborations.</li>
-  </ul>
-</div>
+```yaml
+name : Ahmad Ali Murtadlo Asadillah
+location : Lamongan, Indonesia
+major : Informatics Engineering
+
+```
+```
+
+#<div align="left" style="max-width: 650px; margin: 0 auto;">
+  #<ul>
+    #<li>💼 <b>Current Focus:</b> Laboratory & Practicum Assistant at UNIDA Gontor — guiding junior students in Java OOP, Data Structures, and Databases.</li>
+    #<li>🤖 <b>AI-Assisted Engineering:</b> Certified in Generative AI & Prompt Engineering (Codepolitan x Google.org) to build highly productive engineering workflows.</li>
+    #<li>🔒 <b>Security Aware:</b> Trained in Industrial Cybersecurity frameworks (ID-Networkers) to enforce secure coding principles from the ground up.</li>
+    #<li>🌐 <b>Global Capability:</b> Upper-intermediate Arabic proficiency (TOAFL B2 Certified - Score: 500) from Lisanul Arab, ready for international tech collaborations.</li>
+  #</ul>
+#</div>
+```
 
 ---
 
