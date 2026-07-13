@@ -31,8 +31,8 @@ major : Informatics Engineering
 ---
 
 ### 📊 GitHub Stats & Productivity
-<p>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="195" />
 </p>
 
