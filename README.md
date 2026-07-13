@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-### ⚡ About My Journey
+  <h3>⚡ About My Journey</h3>
 </p>
 
 ```yaml
@@ -26,14 +26,19 @@ major : Informatics Engineering
 ```
 ---
 
-### 🛠️ Tech Stack & Skills
+<p align="center">
+  <h3>🛠️ Tech Stack & Skills</h3>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,go,laravel,nodejs,git" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Productivity
+<p align="center">
+  <h3>📊 GitHub Stats & Productivity</h3>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Alimurtadlo16&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alimurtadlo16&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" height="250" />
