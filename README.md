@@ -74,7 +74,7 @@ major : Informatics Engineering
 <br>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00F2FE&center=true&vCenter=true&width=650&height=60&lines=Hello+World!+%F0%9F%91%BD;Welcome+to+Ali's+Space;System.out.println(%22Let's+Build%22);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=26&duration=3500&pause=1000&color=E2E8F0&center=true&vCenter=true&width=650&height=60&lines=%E2%9C%A8+Hi%2C+I'm+Ahmad+Ali+Murtadlo;Crafting+digital+experiences..." alt="Typing SVG" />
 </p>
 
 </div>
