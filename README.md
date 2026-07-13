@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F51B5&center=true&vCenter=true&width=650&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+Ahmad+Ali+Murtadlo+Asadillah" alt="Typing SVG" />
 </p>
 
+---
+
 <p align="center">
   <i>"Fueling code with coffee, chasing bugs till late, and mentoring the next generation of engineers at the lab."</i>
 </p>
@@ -12,7 +14,9 @@
 
 ---
 
+<p align="center">
 ### ⚡ About My Journey
+</p>
 
 ```yaml
 name : Ahmad Ali Murtadlo Asadillah
@@ -20,7 +24,6 @@ location : Lamongan, Indonesia
 major : Informatics Engineering
 
 ```
-
 ---
 
 ### 🛠️ Tech Stack & Skills
