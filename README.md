@@ -75,8 +75,6 @@ major : Informatics Engineering
 
 <br> 
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;Hello+Everyone!+I'M+A+Software+Engineer;LET'S+CODE+THE+FUTURE!;Just+Ignore+Who's+Destroying+U" alt="Typing SVG" />
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=LOADING+PROFILE...;Hello+Everyone!+I'M+A+Software+Engineer;LET'S+CODE+THE+FUTURE!;Just+Ignore+Who's+Destroying+U)
 
 </div>
