@@ -31,7 +31,7 @@ major : Informatics Engineering
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,go,laravel,nodejs,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,git" alt="Tech Stack" />
 </p>
 
 ---
